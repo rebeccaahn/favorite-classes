@@ -1,0 +1,35 @@
+.my-classes {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+#welcome {
+    color: rgb(128, 22, 128);
+    font-family: 'Trebuchet MS';
+}
+
+body {
+    background-color: rgb(252, 245, 236);
+}
+
+label {
+    font-family: 'Trebuchet MS';
+}
+
+button {
+    font-family: 'Trebuchet MS';
+    background-color: white;
+    border: 2px solid rgb(128, 22, 128);
+}
+
+input {
+    width: 50%;
+    height: 50%;
+    padding: 10px;
+    font-family: 'Trebuchet MS';
+}
+
+#inputdiv {
+    padding: 5px;
+}

@@ -1,0 +1,11 @@
+.class {
+    background-color: rgb(66, 63, 63);
+    margin: auto;
+    height: 50%;
+    border: solid antiquewhite;
+    padding: 10px;
+    font-family: 'Trebuchet MS';
+    color: white;
+    inline-size: 300px;
+    overflow-wrap: break-word;
+}
