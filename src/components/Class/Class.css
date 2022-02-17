@@ -6,6 +6,17 @@
     padding: 10px;
     font-family: 'Trebuchet MS';
     color: white;
-    inline-size: 300px;
     overflow-wrap: break-word;
+}
+
+#title {
+    font-weight: bold;
+}
+
+#department {
+    font-style: italic;
+}
+
+#description {
+    font-size: small;
 }
